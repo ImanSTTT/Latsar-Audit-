@@ -1,0 +1,5 @@
+{
+  "name": "Audit Evidence and Request Dashboard 4.0",
+  "description": "A dashboard application to manage and track audit evidence and requests. It provides a centralized platform for monitoring request statuses, deadlines, and related evidence for various audit projects.",
+  "requestFramePermissions": []
+}
